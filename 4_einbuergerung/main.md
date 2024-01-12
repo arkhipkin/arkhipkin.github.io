@@ -6,10 +6,10 @@
 ## Содержание  
 - ### [Вводные данные](#input)  
 - ### [Необходимые документы](#prerequisites)  
-- ##### [Regeln die Menschen in Deutschland zusammenleben](#regeln_leben)  
-- ##### [Deutschkenntnisse mindestens auf der Stufe B1](#b1)  
+  - ##### [Regeln die Menschen in Deutschland zusammenleben](#regeln_leben)  
+  - ##### [Deutschkenntnisse mindestens auf der Stufe B1](#b1)  
 - ### [Наши действия по шагам](#actions)  
-- ##### [Консультация/запись в VHS](#vhs)  
+  - ##### [Консультация/запись в VHS](#vhs)  
 
 
 
