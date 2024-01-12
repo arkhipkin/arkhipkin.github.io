@@ -1,7 +1,7 @@
 # In progress: подготовка документов на получение немецкого гражданства (январь 2024 - ...)
 
 
-<a name="content"/></a>
+<a name="content"/>
 
 ## Содержание  
 - ### [Вводные данные](#input)  
@@ -15,7 +15,7 @@
 
 
 
-<a name="input"/></a>
+<a name="input"/>
 
 ### Вводные данные:
 - мы живем в Германии с конца 2015 года
@@ -32,7 +32,7 @@
 
 
 
-<a name="prerequisites"/></a>
+<a name="prerequisites"/>
 
 ### Необходимые документы
 Не так давно появилась онлайн форма для подачи документов на [Einbürgerung - Verleihung der deutschen Staatsangehörigkeit beantragen](https://service.berlin.de/dienstleistung/318998/).
@@ -50,7 +50,7 @@
 
 
 
-<a name="regeln_leben"/></a>
+<a name="regeln_leben"/>
 
 #### Regeln die Menschen in Deutschland zusammenleben
 Как описано выше, есть [2 опции](https://www.berlin.de/vhs/volkshochschulen/reinickendorf/kurse/deutsch/artikel.1058429.php):
@@ -61,7 +61,7 @@
 
 
 
-<a name="b1"/></a>
+<a name="b1"/>
 
 #### Deutschkenntnisse mindestens auf der Stufe B1
 Есть разные варианты экзаменов для подтверждения знания B1 (https://www.berlin.de/vhs/kurse/deutsch-integration/beratung/):
@@ -75,12 +75,12 @@
 
 
 
-<a name="actions"/></a>
+<a name="actions"/>
 
 ### Наши действия по шагам
 
 
-<a name="vhs"/></a>
+<a name="vhs"/>
 
 #### Консультация/запись в [VHS](https://www.berlin.de/vhs/volkshochschulen/lichtenberg/)
 <p align='right'> <a href="#content"> К содержанию </a> </p>
