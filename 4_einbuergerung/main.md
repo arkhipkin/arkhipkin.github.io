@@ -15,14 +15,17 @@
 
 Из того, что сразу бросается глаза, нам необходимо начать со следующих пунктов:
 - Sie sprechen Deutsch: Sie haben Deutschkenntnisse mindestens auf der Stufe B1.
-- Sie wissen, nach welchen Regeln die Menschen in Deutschland zusammenleben. Dies können Sie nachweisen durch: bestandenen Einbürgerungstest oder das Zertifikat „Leben in Deutschland“
+- Sie wissen, nach welchen Regeln die Menschen in Deutschland zusammenleben. Dies können Sie nachweisen durch: bestandenen Einbürgerungstest oder das Zertifikat „Leben in Deutschland“ [ссылка](https://www.berlin.de/vhs/volkshochschulen/reinickendorf/kurse/deutsch/artikel.1058429.php)
 
 Вроде и на то, и на другое записываться можно в одном из филиалов [VHS (Die Berliner Volkshohschulen)](https://www.berlin.de/vhs/volkshochschulen/)
 
+Помимо этого, из того, что я слышал - может быть еще проблема со свидетельством о рождении: наши советские зеленые/серые книжечки сейчас вроде как не канают.
+Так что начать так же можно с записи в российское консульство, чтоб получить свидетельства о рождении нового образца с апостилем (услуга вроде называется "Истребование документов из России")
+
 #### Regeln die Menschen in Deutschland zusammenleben
-Как описано выше, есть 2 опции:
+Как описано выше, есть [2 опции](https://www.berlin.de/vhs/volkshochschulen/reinickendorf/kurse/deutsch/artikel.1058429.php):
 - Einbürgerungstest - процесс достаточно подробно описан в [этом телеграм посте](https://t.me/howtoberlin/583)
-- Zertifikat „Leben in Deutschland“ - по слухом, он несколько проще (хотя не думаю, что и первый вариант будет сильно сложнее)
+- Zertifikat „Leben in Deutschland“ - по слухам, он несколько проще (хотя не думаю, что и первый вариант будет сильно сложнее) [Aktuelle Termine Leben in Deutschland](https://www.vhsit.berlin.de/VHSKURSE/BusinessPages/CourseSearch.aspx)
 
 #### Deutschkenntnisse mindestens auf der Stufe B1
 Есть разные варианты экзаменов для подтверждения знания B1 (https://www.berlin.de/vhs/kurse/deutsch-integration/beratung/):
@@ -30,3 +33,6 @@
   - https://www.gast.de/de/forschung-entwicklung/entwicklung/auftraege/deutsch-test-fuer-zuwanderer-dtz
 - **telc**: по случам, `чуток попроще каких-то других форм` (c) 😁 Процесс достаточно подробно описан в [этом телеграм посте](https://t.me/howtoberlin/527), запись на экзамен - по [ссылке](https://www.humboldt-institut.org/en/german-courses/exams/)
 - **Goethe Zertifikat**: один из самых сложный, с этим мы связываться не хотим
+
+### Наши действия по шагам
+#### Консультация/запись в [VHS](https://www.berlin.de/vhs/volkshochschulen/lichtenberg/)
