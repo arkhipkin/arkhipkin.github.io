@@ -9,7 +9,7 @@
   - ##### [Regeln die Menschen in Deutschland zusammenleben](#regeln_leben)  
   - ##### [Deutschkenntnisse mindestens auf der Stufe B1](#b1)  
 - ### [Наши действия по шагам](#actions)  
-  - ##### [Консультация/запись в VHS](#vhs)  
+  - ##### [1. Консультация/запись в VHS](#vhs)  
 
 
 
@@ -82,5 +82,12 @@
 
 <a name="vhs"/>
 
-#### Консультация/запись в [VHS](https://www.berlin.de/vhs/volkshochschulen/lichtenberg/)
+#### 1. Консультация/запись в [VHS](https://www.berlin.de/vhs/volkshochschulen/lichtenberg/)
+Приехав VHS Lichtenberg 2024-01-16 к 14:00 (начало приема для консультации и записи), мы обнаружили там длинную очередь. Из разговоров поняли, что большинство там для записи на интеграционные курсы. 
+
+Поймав одну из сотрудник, удалось выяснить, что для записи на экзамены достаточно написать эмейл на <a href="mailto:emilija.schneidewind@lichtenberg.berlin.de">emilija.schneidewind@lichtenberg.berlin.de</a>:
+<img src="vhs.jpeg" width=50% height=50%>
+
+Вернувшись домой, сразу написал этот эмейл и спросил, как мы можем получить термины на оба нужные нам экзамены
+
 <p align='right'> <a href="#content"> К содержанию </a> </p>
