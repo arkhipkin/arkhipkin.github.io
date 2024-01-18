@@ -10,6 +10,7 @@
   - ##### [Deutschkenntnisse mindestens auf der Stufe B1](#b1)  
 - ### [Наши действия по шагам](#actions)  
   - ##### [1. Консультация/запись в VHS](#vhs)  
+  - ##### [2. Einbürgerungstest](#einbuergerungstest)  
 
 
 
@@ -97,7 +98,8 @@
 <p align='right'> <a href="#content"> К содержанию </a> </p>
 
 
-<a name="vhs"/>
+
+<a name="einbuergerungstest"/>
 
 #### 2. Einbürgerungstest
 Как я уже написал выше, тест нам назначили на 15.02.2024, на подготовку было чуть меньше месяца.
