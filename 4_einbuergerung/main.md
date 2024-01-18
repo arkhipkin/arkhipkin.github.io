@@ -110,4 +110,8 @@
 - Все вопросы имеют 4 варианта ответов, правильный - только один (приятное отличие от теоритического экзамена на водительские права 🙂)
 - Где можно найти вопросы для подготовки: Sie finden die 300 bundeseinheitlichen als auch die 10 länderspezifischen Testfragen und Antworten im Internet unter www.BAMF.de (oben in der Leiste auf **„Einbürgerung“** gehen, **Online-Test-center** anklicken, **Modelltestbogen** oder **Gesamtkatalog** auswählen und **online bearbeiten**).
 
+Как всегда, интерфейс немецких сайтов немного отличается от инструкции 😁
+
+В общем, на момент 18.01.2024 - вам [сюда](https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/OnlineTestcenter/online-testcenter-node.html#a_917922_0), а дальше по ссылка уже можно либо [интерактивно отвечать на вопросы](https://oet.bamf.de/ords/oetut/f?p=514:1:0), либо [скачать PDF](https://www.bamf.de/SharedDocs/Anlagen/DE/Integration/Einbuergerung/gesamtfragenkatalog-lebenindeutschland.pdf?__blob=publicationFile&v=10) со всеми вопросами (но, на первый взгляд, без ответов 🤪)
+
 <p align='right'> <a href="#content"> К содержанию </a> </p>
