@@ -3,8 +3,11 @@
 }
 
 body {
-  font-size: 0.7em;
-  font-family: 'Merriweather', 'Roboto';
+  /* font-size: 0.7em; */
+  font-size: 0.72em;
+  /* font-family: 'Merriweather', 'Roboto'; */
+  /* font-family: 'Space Mono', 'Roboto'; */
+  font-family: 'Montserrat', 'Roboto';
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -65,8 +68,14 @@ table {
 }
 
 .summary {
-  font-family: 'Open Sans';
+  /* font-family: 'Merriweather'; */
+  /* font-family: 'Space+Grotesk'; */
+  /* font-family: 'Open Sans'; */
+  /* font-family: 'Space Mono'; */
+  font-family: 'Montserrat';
   font-size: 1em;
+  /* font-size: 0.9em; */
+  /* padding-bottom: 50px; */
 }
 
 .exp-role {
@@ -78,7 +87,9 @@ table {
   height: var(--header-height);
   padding: 5px;
   font-size: 1em;
-  font-family: 'Open Sans';
+  /* font-family: 'Open Sans'; */
+  /* font-family: 'Space Mono'; */
+  font-family: 'Montserrat';
 }
 
 .contacts > p {
@@ -88,7 +99,9 @@ table {
 }
 
 .contacts > p:first-child {
-  font-family: 'Merriweather';
+  /* font-family: 'Merriweather'; */
+  font-family: 'Montserrat';
+  font-size: 1.3em;
 }
 
 .contact-icon {
@@ -98,9 +111,12 @@ table {
 }
 
 .experience {
-  padding-top: 0;
+  /* padding-top: 0; */
+  padding-top: 100;
   padding-right: 10px;
   border-top: 0.7px solid gray;
+  /* border-top: 3.7px solid gray; */
+  /* margin-top: 30px; */
   color: #666666;
 }
 
@@ -144,6 +160,7 @@ table {
 
 .job-header-content > p:nth-child(2) {
   font-family: 'Open Sans';
+  /* font-family: 'Montserrat'; */
   font-weight: lighter;
 }
 
