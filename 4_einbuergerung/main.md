@@ -185,4 +185,7 @@
 
 *Begründung:* Weil mit der bevorstehenden Änderung des Staatsangehörigkeitsrechts eine Aufgabe der Staatsangehörigkeit zukünftig nicht mehr notwendig sein soll.*
 
+2024-08-30 - пришли эмейлы на меня и супругу с просьбой дозагрузить онлайн до конца сентября новые/актуальные документы.
+Перечень включал в себя актуальные зарплатные выписки, платежи по ипотеке, коммунальные, справка из финанцамта по отсутствию долгов, подтверждения из школы и садика.
+
 <p align='right'> <a href="#content"> К содержанию </a> </p>
