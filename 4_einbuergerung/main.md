@@ -194,4 +194,9 @@
 
 > Anerkennungsfähig sind im Einbürgerungsverfahren folgende Sprachnachweise: telc GmbH, ÖSD, TestDAF, ECL Prüfungszentrum aber auch DSH, DSD, TOEFL, IELTS
 
+Делать нечего: нашли ей репетитора, стала усиленно готовиться к сдаче, записалась на экзамен **29.11.2024**.
+
+- **2024-12-18** - пришел результат, что сдала успешно 🎉 Сразу же загрузил скан сертификата в [контакт формуляр LEA](https://www.berlin.de/einwanderung/ueber-uns/kontakt/artikel.1394181.php) ⏳
+
+
 <p align='right'> <a href="#content"> К содержанию </a> </p>
